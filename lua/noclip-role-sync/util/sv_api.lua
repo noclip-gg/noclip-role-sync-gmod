@@ -143,5 +143,3 @@ end
 concommand.Add("noclip_debug_dump_caches", function()
     NoClip.ClearCaches()
 end)
-
-NoClip.DebugReFullfill()
