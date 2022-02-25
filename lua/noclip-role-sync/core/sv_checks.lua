@@ -57,4 +57,3 @@ function NoClip.CheckPlayer(pl)
         end
     end, err)
 end
-NoClip.DebugReFullfill()
